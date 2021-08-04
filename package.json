@@ -12,13 +12,13 @@
     "react-native-navigation": "2.22.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.4.5",
-    "@babel/runtime": "^7.4.5",
-    "babel-jest": "^24.8.0",
-    "jest": "^24.8.0",
-    "metro-react-native-babel-preset": "^0.54.1",
-    "prettier": "^1.18.2",
-    "react-test-renderer": "16.8.3"
+    "@babel/core": "7.15.0",
+    "@babel/runtime": "7.14.8",
+    "babel-jest": "27.0.6",
+    "jest": "27.0.6",
+    "metro-react-native-babel-preset": "0.54.1",
+    "prettier": "2.3.2",
+    "react-test-renderer": "17.0.2"
   },
   "jest": {
     "preset": "react-native"
